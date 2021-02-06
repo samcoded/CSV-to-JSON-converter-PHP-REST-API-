@@ -2,4 +2,4 @@
 
 
 
-Send request with remote url and json format of the csv file as response
+Send request with remote url and get json format of the csv file as response
